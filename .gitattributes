@@ -31,10 +31,10 @@
 # PostGreSQL source file
 *.sql linguist-detectable=true
 *.sql linguist-documentation=false
-*.sql linguist-language=PostGreSQL
+*.sql linguist-language=PLpgSQL
 *.psql linguist-detectable=true
 *.psql linguist-documentation=false
-*.psql linguist-language=PostGreSQL
+*.psql linguist-language=PLpgSQL
 # CSS (Cascade Styling Sheets) stylesheet file
 *.css linguist-detectable=true
 *.css linguist-documentation=false
@@ -172,6 +172,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 5 (2022, Tuesday, July 26th at 4:07 pm PST)
+# File version: 6 (2022, Tuesday, July 26th at 4:10 pm PST)
 # Line count (including blank lines and compiler line): 178
 # End of script
